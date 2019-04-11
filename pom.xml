@@ -23,7 +23,7 @@
     </dependency>
  </dependencies>
  <build>
-    <finalName>demopipeline_ybhavm</finalName>
+    <finalName>pipeline_ybhavm</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
